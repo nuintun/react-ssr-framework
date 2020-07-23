@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/nuintun/react-ssr-framework/issues"
   },
-  "homepage": "https://github.com/nuintun/react-ssr-framework#readme"
+  "homepage": "https://github.com/nuintun/react-ssr-framework#readme",
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
 }
