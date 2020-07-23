@@ -1,0 +1,24 @@
+{
+  "name": "react-ssr-framework",
+  "version": "0.0.0",
+  "description": "A tiny react ssr framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nuintun/react-ssr-framework.git"
+  },
+  "keywords": [
+    "react",
+    "ssr",
+    "framework"
+  ],
+  "author": "nuintun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nuintun/react-ssr-framework/issues"
+  },
+  "homepage": "https://github.com/nuintun/react-ssr-framework#readme"
+}
